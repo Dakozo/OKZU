@@ -23,14 +23,6 @@ No lo dudes más, OKZU es el bot que necesitas.
 
 
 ## Instalacion
-### 1. Clona el Repositorio:
-Primero, asegúrate de haber clonado este repositorio de GitHub o descargado el código de tu bot en tu máquina local.
-
-### 2. Instala Node.js y npm:
-Si no tienes Node.js instalado, descárgalo e instálalo desde el sitio web oficial de Node.js. Esto también instalará npm, el administrador de paquetes para Node.js.
-
-
-## Installation
 
 **1. Clona el Repositorio:**
 Primero, asegúrate de haber clonado tu repositorio de GitHub o descargado el código de tu bot en tu máquina local.
