@@ -23,3 +23,41 @@ No lo dudes más, OKZU es el bot que necesitas.
 
 
 ## Instalacion
+### 1. Clona el Repositorio:
+Primero, asegúrate de haber clonado este repositorio de GitHub o descargado el código de tu bot en tu máquina local.
+
+### 2. Instala Node.js y npm:
+Si no tienes Node.js instalado, descárgalo e instálalo desde el sitio web oficial de Node.js. Esto también instalará npm, el administrador de paquetes para Node.js.
+
+
+## Installation
+
+**1. Clona el Repositorio:**
+Primero, asegúrate de haber clonado tu repositorio de GitHub o descargado el código de tu bot en tu máquina local.
+
+**2. Instala Node.js y npm:**
+Si no tienes Node.js instalado, descárgalo e instálalo desde [el sitio web oficial de Node.js.](https://nodejs.org/en) Esto también instalará npm, el administrador de paquetes para Node.js.
+
+**3. Instala las Dependencias del Proyecto:**
+Abre una terminal en la carpeta de tu proyecto _(donde está tu archivo package.json)_ y ejecuta el siguiente comando para instalar las dependencias:
+```bash
+npm install
+```
+Esto instalará todas las dependencias necesarias que estén especificadas en tu archivo _package.json_.  
+
+**4. Crea un Archivo .env:**
+Crea un archivo llamado .env en la raíz de tu proyecto. Dentro de este archivo, coloca las variables de entorno necesarias, como el token de tu bot. Te he dejado un archivo llamado _env.ejemplo_. Solo renómbralo a _.env_ y edítalo con tus datos.
+
+**5. Crea un Bot en Discord:**
+Visita el [portal de desarrolladores de Discord](https://discord.com/developers/applications) y crea una nueva aplicación. Luego, convierte esa aplicación en un bot. Obtén el token del bot y guárdalo en tu archivo _.env_.
+
+**6. Inicia el Bot:**
+Finalmente, ejecuta tu bot con el siguiente comando:
+```bash
+node okzu.js
+```
+Si todo está configurado correctamente, deberías ver mensajes de inicio en la consola.
+
+## Licencia
+
+[MIT](https://choosealicense.com/licenses/mit/)
