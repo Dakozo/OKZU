@@ -17,7 +17,7 @@ El panel de control web es muy intuitivo y fácil de usar, y te permite personal
 
 
 ## Añade OKZU a tu servidor de Discord
-OKZU es el bot que siempre has soñado, y ahora puedes tenerlo en tu [Servidor de Discord](https://discord.com/api/oauth2/authorize?client_id=1177248960709140551&permissions=8&scope=bot+applications.commands), solo tienes que [invitarlo](https://discord.com/api/oauth2/authorize?client_id=1177248960709140551&permissions=8&scope=bot+applications.commands) y empezar a disfrutar de todo lo que te ofrece.
+OKZU es el bot que siempre has soñado, y ahora puedes tenerlo en tu [Servidor de Discord](https://discord.com/oauth2/authorize?client_id=1223551064389980273&permissions=8&scope=bot+applications.commands), solo tienes que [invitarlo](https://discord.com/oauth2/authorize?client_id=1223551064389980273&permissions=8&scope=bot+applications.commands) y empezar a disfrutar de todo lo que te ofrece.
 No lo dudes más, OKZU es el bot que necesitas.
 
 
